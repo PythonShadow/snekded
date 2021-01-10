@@ -1,0 +1,9 @@
+[Settings]
+bot_token = 1506065344:AAGfATvWQyfP33o5t1t7CmDoFsbkVFLjjuo
+admin_id_own = 837582349 
+admin_id_manager = 1056861593 
+bot_login = amazsim_robot
+ref_percent = 10
+qiwi_number = 79609643419
+qiwi_token = 307d3b4858dd24ad3f57d82ee4f49fa5
+api_smshub = 55276U6954ac933bc86a5e2cee73019c37e9f2
